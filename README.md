@@ -22,6 +22,7 @@ Before running the code, ensure that you have the following installed:
  
    ```bash
    cd seam-carving
+   cd src
    
 3. Compile the code using a C++ compiler:
 
@@ -35,14 +36,9 @@ Before running the code, ensure that you have the following installed:
 
 5. Follow the on-screen prompts to enter the input image path, output image path, and desired output dimensions.
 
-### Example:
-    
-Enter input image path:
-../Input/image.jpg
-Enter output image path:
-../Output/image.jpg
-Enter output image height [<=original_height] and width [<=original_width]
-300 400
+## Output
+
+You can find output image at the location specified during program execution. You can also find sample input and output images used for testing of this program in Input and Output folders respectively.
 
 
 
