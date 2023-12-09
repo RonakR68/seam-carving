@@ -9,7 +9,7 @@ This C++ program demonstrates image resizing using the Seam Carving algorithm wi
 Before running the code, ensure that you have the following installed:
 
 - C++ compiler
-- OpenCV library
+- OpenCV library: Follow instructions in opencv_installation_ubuntu.pdf for opencv installation installation and configuration for running c++ program in ubuntu system.
 
 ## How to Run
 
@@ -18,7 +18,7 @@ Before running the code, ensure that you have the following installed:
    ```bash
    git clone https://github.com/your-username/seam-carving.git
    
- 2. Navigate to the project directory:
+2. Navigate to the project directory:
  
    ```bash
    cd seam-carving
